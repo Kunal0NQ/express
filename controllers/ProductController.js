@@ -1,5 +1,6 @@
 class RouterController {
   get() {
+    
     return "Get Product";
   }
   post() {
