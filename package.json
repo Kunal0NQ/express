@@ -5,9 +5,9 @@
   "repository": "https://github.com/Kunal0NQ/express.git",
   "author": "Kunal0NQ <67617102+Kunal0NQ@users.noreply.github.com>",
   "license": "MIT",
-   "scripts": {
-     "start": "nodemon index.js"
-   }
+  "scripts": {
+    "start": "nodemon app.js localhost 5000"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.2.4"
